@@ -5,7 +5,7 @@
 
         // / -> denotes relative to the workspace root
         "savePath": "/css",
-        "generateMap": true
+        "generateMap": false
     },
     {
         "format": "compressed",
@@ -13,6 +13,6 @@
 
         // / -> denotes relative to the workspace root
         "savePath": "/css",
-        "generateMap": true
+        "generateMap": false
     }
 ]}
